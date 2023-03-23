@@ -1,0 +1,27 @@
+textarea {
+    min-height: 400px;
+}
+
+.read {
+    background-color: lightgray;
+    padding: 5px;
+    margin: 10px;
+}
+
+.unread {
+    background-color: white;
+    padding: 5px;
+    margin: 10px;
+}
+
+.dog {
+    background-color: black;
+}
+
+.reply {
+    margin: 10px;
+}
+
+.jj {
+    background-color: black;
+}
